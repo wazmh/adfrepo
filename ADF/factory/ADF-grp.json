@@ -1,0 +1,9 @@
+{
+	"name": "ADF-grp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e553de6-263c-4b9a-890b-dc3c871ab978",
+		"tenantId": "ea1f9c15-7f32-4dfa-b662-cacea1f61d0f"
+	}
+}
